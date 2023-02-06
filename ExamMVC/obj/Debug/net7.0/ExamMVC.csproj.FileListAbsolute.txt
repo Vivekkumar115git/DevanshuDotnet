@@ -1,0 +1,139 @@
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.csproj.AssemblyReference.cache
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.AssemblyInfoInputs.cache
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.AssemblyInfo.cs
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.csproj.CoreCompileInputs.cache
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.RazorAssemblyInfo.cache
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.RazorAssemblyInfo.cs
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\appsettings.json
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\ExamMVC.staticwebassets.runtime.json
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\ExamMVC.exe
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\ExamMVC.deps.json
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\ExamMVC.runtimeconfig.json
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\ExamMVC.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\ExamMVC.pdb
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets\msbuild.ExamMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets\msbuild.build.ExamMVC.props
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ExamMVC.props
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ExamMVC.props
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\scopedcss\bundle\ExamMVC.styles.css
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\scopedcss\projectbundle\ExamMVC.bundle.scp.css
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\refint\ExamMVC.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.pdb
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.genruntimeconfig.cache
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\ref\ExamMVC.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\ZstdNet.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\comerr64.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\gssapi64.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\k5sprt64.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\krb5_64.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\krbcc64.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\BuisnessLogicLayer.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\BuisnessObjectLayer.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\ExamDAL.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\BuisnessObjectLayer.pdb
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\BuisnessLogicLayer.pdb
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\bin\Debug\net7.0\ExamDAL.pdb
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.csproj.CopyComplete
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\appsettings.json
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\ExamMVC.staticwebassets.runtime.json
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\ExamMVC.exe
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\ExamMVC.deps.json
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\ExamMVC.runtimeconfig.json
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\ExamMVC.dll
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\ExamMVC.pdb
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\BuisnessLogicLayer.dll
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\BuisnessObjectLayer.dll
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\ExamDAL.dll
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\BuisnessObjectLayer.pdb
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\BuisnessLogicLayer.pdb
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\ExamDAL.pdb
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.csproj.AssemblyReference.cache
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.AssemblyInfoInputs.cache
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.AssemblyInfo.cs
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.csproj.CoreCompileInputs.cache
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.RazorAssemblyInfo.cache
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.RazorAssemblyInfo.cs
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets\msbuild.ExamMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets\msbuild.build.ExamMVC.props
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ExamMVC.props
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ExamMVC.props
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\scopedcss\bundle\ExamMVC.styles.css
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\scopedcss\projectbundle\ExamMVC.bundle.scp.css
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.csproj.CopyComplete
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.dll
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\refint\ExamMVC.dll
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.pdb
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.genruntimeconfig.cache
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ref\ExamMVC.dll
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\ExamMVC.staticwebassets.runtime.json
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\ExamMVC.exe
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\ExamMVC.deps.json
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\ExamMVC.runtimeconfig.json
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\ExamMVC.dll
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\ExamMVC.pdb
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\BuisnessLogicLayer.dll
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\BuisnessObjectLayer.dll
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\ExamDAL.dll
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\BuisnessObjectLayer.pdb
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\BuisnessLogicLayer.pdb
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\bin\Debug\net7.0\ExamDAL.pdb
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.AssemblyInfo.cs
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets\msbuild.ExamMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets\msbuild.build.ExamMVC.props
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ExamMVC.props
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ExamMVC.props
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\scopedcss\bundle\ExamMVC.styles.css
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\scopedcss\projectbundle\ExamMVC.bundle.scp.css
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.csproj.CopyComplete
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.dll
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\refint\ExamMVC.dll
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.pdb
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ExamMVC.genruntimeconfig.cache
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamMVC\obj\Debug\net7.0\ref\ExamMVC.dll

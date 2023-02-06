@@ -1,0 +1,45 @@
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamDAL\bin\Debug\net7.0\ExamDAL.deps.json
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamDAL\bin\Debug\net7.0\ExamDAL.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamDAL\bin\Debug\net7.0\ExamDAL.pdb
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamDAL\bin\Debug\net7.0\BuisnessObjectLayer.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamDAL\bin\Debug\net7.0\BuisnessObjectLayer.pdb
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.csproj.AssemblyReference.cache
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.AssemblyInfoInputs.cache
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.AssemblyInfo.cs
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.csproj.CoreCompileInputs.cache
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.csproj.CopyComplete
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamDAL\obj\Debug\net7.0\refint\ExamDAL.dll
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.pdb
+C:\Users\dksds\OneDrive\Documents\study\C-DAC\DotNet Core\webapp\ExamDAL\obj\Debug\net7.0\ref\ExamDAL.dll
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamDAL\bin\Debug\net7.0\ExamDAL.deps.json
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamDAL\bin\Debug\net7.0\ExamDAL.dll
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamDAL\bin\Debug\net7.0\ExamDAL.pdb
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamDAL\bin\Debug\net7.0\BuisnessObjectLayer.dll
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamDAL\bin\Debug\net7.0\BuisnessObjectLayer.pdb
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.csproj.AssemblyReference.cache
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.AssemblyInfoInputs.cache
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.AssemblyInfo.cs
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.csproj.CoreCompileInputs.cache
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.csproj.CopyComplete
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.dll
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\refint\ExamDAL.dll
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.pdb
+C:\Users\dksds\OneDrive\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\ref\ExamDAL.dll
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamDAL\bin\Debug\net7.0\ExamDAL.deps.json
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamDAL\bin\Debug\net7.0\ExamDAL.dll
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamDAL\bin\Debug\net7.0\ExamDAL.pdb
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamDAL\bin\Debug\net7.0\BuisnessObjectLayer.dll
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamDAL\bin\Debug\net7.0\BuisnessObjectLayer.pdb
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.AssemblyInfo.cs
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.csproj.CopyComplete
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.dll
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\refint\ExamDAL.dll
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\ExamDAL.pdb
+C:\Users\user\Desktop\Devanshu_220943020021\webapp\ExamDAL\obj\Debug\net7.0\ref\ExamDAL.dll

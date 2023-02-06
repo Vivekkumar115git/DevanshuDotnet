@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ExamMVC/1.0.0": {
+        "dependencies": {
+          "BuisnessLogicLayer": "1.0.0",
+          "BuisnessObjectLayer": "1.0.0"
+        },
+        "runtime": {
+          "ExamMVC.dll": {}
+        }
+      },
+      "BuisnessLogicLayer/1.0.0": {
+        "dependencies": {
+          "BuisnessObjectLayer": "1.0.0",
+          "ExamDAL": "1.0.0"
+        },
+        "runtime": {
+          "BuisnessLogicLayer.dll": {}
+        }
+      },
+      "BuisnessObjectLayer/1.0.0": {
+        "runtime": {
+          "BuisnessObjectLayer.dll": {}
+        }
+      },
+      "ExamDAL/1.0.0": {
+        "dependencies": {
+          "BuisnessObjectLayer": "1.0.0"
+        },
+        "runtime": {
+          "ExamDAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExamMVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuisnessLogicLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuisnessObjectLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExamDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+@{
+    ViewData["Title"] = "Products";
+}
+@using BuisnessObjectLayer;
+
+@{
+    List<Topic> topics = ViewData["topics"] as List<Topic>; 
+    foreach(Topic topic in topics)
+    {
+        <h3><a href="/Topics/GetTopic/@topic.Id">@topic.Name</a></h3><br/>
+    }
+}
+<br/>
+<br/>
+<a href="/Topics/Add">Add Topic</a>

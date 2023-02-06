@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ExamDAL/1.0.0": {
+        "dependencies": {
+          "BuisnessObjectLayer": "1.0.0"
+        },
+        "runtime": {
+          "ExamDAL.dll": {}
+        }
+      },
+      "BuisnessObjectLayer/1.0.0": {
+        "runtime": {
+          "BuisnessObjectLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExamDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuisnessObjectLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
